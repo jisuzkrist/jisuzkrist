@@ -1,9 +1,11 @@
-## MY PROJECTS
+## AUTO EXPRESS
 
 **Auto Express** - Landing  
 **Demo:** [gh-pages](https://jisuzkrist.github.io/autoexpress/)  
 
-![preview](./autoexpress.png)
+![preview](./autoexpress.png)  
+
+**Demo:** [gh-pages](https://jisuzkrist.github.io/autoexpress/)
 
 <!--
 **jisuzkrist/jisuzkrist** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
